@@ -1,4 +1,4 @@
-# ![JSON Builder](https://jpcdn.it/img/14b6c6715ca318c2dc0a3da02569e4db.png)
+# ![Sri Lanka PC Price Comparator](https://jpcdn.it/img/14b6c6715ca318c2dc0a3da02569e4db.png)
 
 # Sri Lanka PC Price Comparator
 
