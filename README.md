@@ -1,3 +1,5 @@
+# ![JSON Builder](https://jpcdn.it/img/14b6c6715ca318c2dc0a3da02569e4db.png)
+
 # Sri Lanka PC Price Comparator
 
 A web application that searches seven Sri Lankan PC hardware stores simultaneously and presents their prices in a single, sortable table. Type a component name, hit search, and within a few seconds you get the lowest price, the highest price, warranty information where available, and a direct link to each listing — all in one place.
